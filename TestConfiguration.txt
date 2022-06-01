@@ -1,0 +1,7 @@
+﻿username = shashi.suresh
+environment = UAT_QA
+browserType = Chrome
+runOnGrid = true
+visualValidation = Not Required
+BrowserStackKey = Aonautomatio
+applicationURL = "<Enter Your application url here>"
